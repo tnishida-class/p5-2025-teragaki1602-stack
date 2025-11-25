@@ -327,5 +327,4 @@ function draw(){
   rect(x + 5, y + 15, m, m)
   rect(x + 10, y + 10, m, m)
   }
-  //owtta
 }
